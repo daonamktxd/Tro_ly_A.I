@@ -1,5 +1,5 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Anh Lập Trình bởi Đào Nam
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
+Chương trình chatbot được tạo ra để làm trợ lý ảo của Đào Nam
 
 
